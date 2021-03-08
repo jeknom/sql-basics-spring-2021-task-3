@@ -4,6 +4,8 @@ This repo contains the third task for the course.
 
 In the file: `task_material.htm` there are some resources about optimizing databases, including what is an db index.
 
+Source of course material: https://tikape.mooc.fi/kevat-2021/
+
 ## Instructions for the assignment in finnish:
 
 ```
